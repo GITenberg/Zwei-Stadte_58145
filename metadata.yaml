@@ -1,0 +1,43 @@
+_repo: Zwei-Stadte_58145
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Browne, Hablot Knight
+    aliases:
+    - Browne, Hablot K. (Hablot Knight)
+    - Browne, H. K. (Hablot Knight)
+    - Brown, Hablot K. (Hablot Knight)
+    - Phiz
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '24934'
+    url: http://www.gutenberg.org/2009/agents/24934
+    wikipedia: http://en.wikipedia.org/wiki/Hablot_Knight_Browne
+  translator:
+    agent_name: Seybt, Julius
+    gutenberg_agent_id: '25338'
+    url: http://www.gutenberg.org/2009/agents/25338
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2018-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58145'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Zwei Städte
+url: http://www.gutenberg.org/ebooks/58145
