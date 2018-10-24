@@ -1,5 +1,5 @@
 _repo: Zwei-Stadte_58145
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Browne, Hablot Knight
@@ -17,6 +17,9 @@ contributor:
     agent_name: Seybt, Julius
     gutenberg_agent_id: '25338'
     url: http://www.gutenberg.org/2009/agents/25338
+covers:
+- cover_type: archival
+  image_path: 58145-h/images/cover.jpg
 creator:
   author:
     agent_name: Dickens, Charles
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58145#Zwei-Stadte
 gutenberg_issued: '2018-10-21'
 gutenberg_type: Text
 identifiers:
